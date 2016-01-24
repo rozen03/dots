@@ -16,6 +16,7 @@
         relink: true
         path: .config/nvim/
     ~/.i3: .i3/
+    ~/.synergy: .synergy/
     ~/.weechat: .weechat/
     ~/bin: bin/
     ~/.Rprofile: .Rprofile
